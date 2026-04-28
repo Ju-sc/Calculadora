@@ -57,7 +57,7 @@ pip install fastapi uvicorn
 
 Clone ou baixe o repositório e, no terminal, navegue até a pasta do projeto e execute:
 
-```bash
+```bash.
 uvicorn main:app --reload
 ```
 
