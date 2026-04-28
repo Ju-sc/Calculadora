@@ -95,3 +95,5 @@ feature/* --> dev --> main
 ```
 
 Pull requests diretos para `main` fora desse fluxo são automaticamente rejeitados pelo pipeline.
+=======
+# Calculadora da juju
