@@ -15,4 +15,4 @@ app.include_router(divi.router)
 
 @app.get("/")
 async def root():
-    return {"message": "Hello World"}
+    return {"message": "Mudei aqui!!"}
