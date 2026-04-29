@@ -4,7 +4,7 @@ from fastapi import APIRouter
 router = APIRouter()
 
 
-@router.get("/divisao")
+@router.get("/divisão")
 def divisao(a: float, b: float):
     if b == 0:
         return JSONResponse(

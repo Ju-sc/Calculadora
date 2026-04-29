@@ -5,7 +5,7 @@ from fastapi.responses import JSONResponse
 router = APIRouter()
 
 
-@router.get("/exponenciacao")
+@router.get("/exponenciação")
 
 
 def exponenciacao(a: float, b: float):
