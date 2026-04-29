@@ -4,7 +4,7 @@ from fastapi.responses import JSONResponse
 
 router = APIRouter()
 
-@router.get("/subtracao")
+@router.get("/subtração")
 
 def subtracao(a: float, b: float):
    
